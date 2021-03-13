@@ -1,0 +1,43 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+.Container1  {
+    border: thick solid #F00509;
+	margin-top: 10px;
+    padding-right: 19px;
+    margin-right: 71px;
+    margin-left: 71px;
+    padding-left: 21px;
+	
+}
+
+#My-Header {
+	color:aliceblue;
+	background-color: aquamarine;
+	text-decoration: underline;
+	padding-bottom: 130px;
+	background-image: url(../images/ronaldofenomeno.jpg);
+	background-size: 130px;
+	
+}
+
+#body {
+	
+}
+	
+
+#Con-Head {
+	color: blueviolet;
+	font-style: italic;
+	font-size: 24px;
+	font-family: 'Anton', sans-serif;
+
+}
+
+#Con-SubHead {
+	font-family: 'Anton', sans-serif;
+	
+}
+#text {
+	font-size: 18px;
+	font-family: 'Akaya Telivigala', cursive;
+}
